@@ -12,6 +12,7 @@ function git_clone_docs() (
 
   cd docs
 
+
   # Update folder if it already exists
   if [ -d $localdir ]
   then
@@ -23,7 +24,11 @@ function git_clone_docs() (
   else
     echo "Cloning $localdir..."
     # Else create new empty git repository and pull only docs folder to it
-    git clone $remoteUrl $localdir --depth 1
+    if [ -n "$2" ]; then
+      git clone --branch $2 $remoteUrl $localdir --depth 1
+    else
+      git clone $remoteUrl $localdir --depth 1
+    fi
     cd "$localdir"
 
     # Tell git to only checkout docs folder
@@ -33,11 +38,6 @@ function git_clone_docs() (
 
   defaultBranch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')"
   checkoutBranch=${2:-$defaultBranch}
-  echo "Fetching $checkoutBranch"
-  git fetch origin $2 --depth 1
-  echo "Checking out $checkoutBranch"
-  git switch $checkoutBranch
-  echo "Pulling $checkoutBranch"
   git pull origin $checkoutBranch
 
   mv docs/* .
@@ -46,8 +46,8 @@ function git_clone_docs() (
 
 # stryker does not have docs in docs :(
 # cloning a different branch works like: git_clone_docs "stryker-net" "v1.0"
+git_clone_docs "stryker-net" "v1.0"
 git_clone_docs "stryker-js"
 git_clone_docs "mutation-testing-elements"
 rm -rf docs/mutation-testing-elements/packages
 git_clone_docs "stryker4s"
-git_clone_docs "stryker-net" "v1.0"
