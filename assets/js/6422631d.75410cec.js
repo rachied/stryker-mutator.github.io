@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstryker_mutator_github_io=self.webpackChunkstryker_mutator_github_io||[]).push([[7510],{9484:function(t){t.exports=JSON.parse('{"label":"maven","permalink":"/blog/tags/maven","allTagsPath":"/blog/tags","count":1}')}}]);
