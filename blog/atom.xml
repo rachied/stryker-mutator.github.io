@@ -18,7 +18,7 @@
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Connect PIT to Stryker Dashboard]]></title>
@@ -36,7 +36,6 @@ His reporter contains all the complex mapping from PIT results to <a href="https
             <name>Maarten Mulders</name>
             <uri>https://maarten.mulders.it/</uri>
         </author>
-        <category label="stryker" term="stryker"/>
         <category label="pit" term="pit"/>
         <category label="java" term="java"/>
         <category label="maven" term="maven"/>
@@ -53,7 +52,7 @@ His reporter contains all the complex mapping from PIT results to <a href="https
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Announcing StrykerJS v6.0 Beta]]></title>
@@ -66,7 +65,7 @@ His reporter contains all the complex mapping from PIT results to <a href="https
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Stryker.NET 1.0]]></title>
@@ -83,7 +82,7 @@ His reporter contains all the complex mapping from PIT results to <a href="https
         <category label="release" term="release"/>
         <category label="mutation testing" term="mutation testing"/>
         <category label="stryker mutator" term="stryker mutator"/>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stryker4s: from 40 minutes to 40 seconds]]></title>
@@ -110,7 +109,7 @@ His reporter contains all the complex mapping from PIT results to <a href="https
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Stryker 4.0 - Mutation Switching]]></title>
@@ -128,7 +127,7 @@ His reporter contains all the complex mapping from PIT results to <a href="https
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Stryker 4.0 Beta]]></title>
@@ -142,7 +141,7 @@ His reporter contains all the complex mapping from PIT results to <a href="https
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Integrating Stryker.NET in your azure pipelines]]></title>
@@ -216,7 +215,7 @@ Please override the <code>"reporters"</code> option to disable the reporter.</li
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Host your mutation testing report]]></title>
@@ -275,7 +274,7 @@ The next major release of Stryker will probably be at the start of 2020 due to t
             <name>Simon de Lang</name>
             <uri>https://github.com/simondel</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Stryker.NET 0.10 with .NET Framework support]]></title>
@@ -356,7 +355,7 @@ In the future, you will be able to host your entire mutation testing report ther
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
         <category label="stryker4s" term="stryker4s"/>
         <category label="stryker.net" term="stryker.net"/>
         <category label="mutation testing elements" term="mutation testing elements"/>
@@ -387,7 +386,7 @@ So you can expect a v2 release around April 30th, since we'll be dropping Node.J
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stryker4s 0.1.0 released]]></title>
@@ -436,7 +435,7 @@ strict <a href="https://semver.org/spec/v2.0.0.html" target="_blank" rel="noopen
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mutation switching in Stryker4s]]></title>
@@ -537,7 +536,7 @@ progress on this front. Want to help? Or curious about our plans? Please get in 
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Get your mutation score badge now!]]></title>
@@ -589,7 +588,7 @@ Give him some love!</p>]]></content>
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript coverage analysis support]]></title>
@@ -625,7 +624,7 @@ interested to know what we can improve further.</p><p>Have fun.</p>]]></content>
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stryker adds Babel support]]></title>
@@ -644,7 +643,7 @@ If you need Webpack to bundle your code in order to run your tests please let us
             <name>Simon de Lang</name>
             <uri>https://github.com/simondel</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[New HTML reporter]]></title>
@@ -659,7 +658,7 @@ This should give you more details as to what happened when testing your applicat
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript support]]></title>
@@ -696,7 +695,7 @@ when using a transpiler. We're also thinking about an es6 mutator using Babel un
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stryker 0.8 release]]></title>
@@ -712,7 +711,7 @@ You can see an example of an html report based on stryker itself <a href="https:
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Road to Stryker 1.0]]></title>
@@ -760,7 +759,7 @@ Mutating of JavaScript code will move to this plugin as well.</p><h2 class="anch
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stryker 0.6.4 released]]></title>
@@ -781,7 +780,7 @@ As configuring a test framework is always optional, you'll still be able to run 
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stryker weekend]]></title>
@@ -794,7 +793,7 @@ As configuring a test framework is always optional, you'll still be able to run 
             <name>Simon de Lang</name>
             <uri>https://github.com/simondel</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to mutation testing]]></title>
@@ -817,7 +816,7 @@ So if you’re going to set any goal, make writing good tests your goal.</p>]]><
             <name>Simon de Lang</name>
             <uri>https://github.com/simondel</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Happy new Stryker!]]></title>
@@ -840,7 +839,7 @@ Here's a quick overview of what we did:</p><ul><li>Created a <a href="https://gi
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stryker 0.5.5 released!]]></title>
@@ -859,6 +858,6 @@ A more detailed explanation of this feature can be found in the <a href="https:/
             <name>Nico Jansen</name>
             <uri>https://github.com/nicojs</uri>
         </author>
-        <category label="stryker" term="stryker"/>
+        <category label="stryker-js" term="stryker-js"/>
     </entry>
 </feed>
